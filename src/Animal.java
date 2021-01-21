@@ -423,7 +423,7 @@ public class Animal {
 
 		// Returns the index or a negative number
 		System.out.println(Arrays.binarySearch(cloneOfArray, "Random"));
-
+        System.out.println("Test"));
 	}
 
 }
